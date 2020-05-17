@@ -21,8 +21,8 @@
     "@angular/router": "~8.2.4",
     "@ckeditor/ckeditor5-angular": "^1.2.3",
     "@ckeditor/ckeditor5-build-classic": "^19.0.0",
+    "@ckeditor/ckeditor5-build-decoupled-document": "^19.0.0",
     "angular-split": "^3.0.3",
-    "ckeditor5-build-classic-plus": "^13.0.0",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"

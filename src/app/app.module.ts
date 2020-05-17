@@ -7,11 +7,13 @@ import { CKEditorModule } from '@ckeditor/ckeditor5-angular';
 import { AppComponent } from './app.component';
 import { EditorComponent } from './components/editor/editor.component';
 import {FormsModule} from "@angular/forms";
+import { SafePipe } from './pipe/safe.pipe';
 
 @NgModule({
   declarations: [
       AppComponent,
-      EditorComponent
+      EditorComponent,
+      SafePipe
   ],
     imports: [
         BrowserModule,
